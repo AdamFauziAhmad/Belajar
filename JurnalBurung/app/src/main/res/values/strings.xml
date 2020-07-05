@@ -1,0 +1,66 @@
+<!--
+  ~ Copyright (C) 2018 Google Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Jurnal Burung</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro_text">Daftar Burung</string>
+    <string name="muraibatu">Murai batu merupakan kelompok burung yang dikenal sebagai teritorial dan sangat kuat dalam mempertahankan wilayahnya (Thruses).</string>
+    <string name="kenati">Burung Kenari atau Serinus canarai adalah jenis burung kicau</string>
+    <string name="kacer">Burung kacer adalah salah satu jenis burung yang suka berkicau dengan postur tubuh yang kecil.</string>
+    <string name="donut_order_message">Kamu Pesan Batu Murai Bird</string>
+    <string name="ice_cream_order_message">Kamu Pesan Kenari Bird.</string>
+    <string name="froyo_order_message">Kamu Pesan Kacer.</string>
+    <string name="change_dessert">Ganti Burung</string>
+    <string name="order_label_text">Pesen:</string>
+    <string name="note_label_text">Catatan:</string>
+    <string name="name_label_text">Nama</string>
+    <string name="enter_name_hint">Masukan Nama</string>
+    <string name="address_label_text">Alamat</string>
+    <string name="enter_address_hint">Masukan Alamat</string>
+    <string name="phone_label_string">Telefon</string>
+    <string name="enter_phone_hint">Masukan No hp</string>
+    <string name="enter_note_hint">Masukan Pesan</string>
+    <string name="choose_delivery_method">Pilih Burung:</string>
+    <string name="same_day_messenger_service">Murai Batu</string>
+    <string name="next_day_ground_delivery">Kenari</string>
+    <string name="pick_up">Kacer </string>
+    <string name="action_contact">Kontak</string>
+    <string name="action_order">Order</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="action_status">Status</string>
+    <string name="action_order_massage">Tambah Burung</string>
+    <string name="action_status_massage">Kamu Memilih Status</string>
+    <string name="action_favorites_massage">Kamu Memilih Favorites</string>
+    <string name="action_contact_massage">Kamu Memilih Kontak</string>
+    <string name="tanggapan">Beri tanggapan</string>
+    <string name="cek3">kulitas terjamin</string>
+    <string name="cek2">bayar mudah</string>
+    <string name="cek1">layanan bagus</string>
+    <string name="menuhome">HOME</string>
+    <string name="menuedit">EDIT</string>
+    <string name="menucari">CARI</string>
+
+
+
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
